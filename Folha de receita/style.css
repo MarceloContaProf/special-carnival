@@ -1,6 +1,6 @@
-*{
-    margin: 0;
-    padding: 0;
+:root{
+        font-family: "Alice",serif;
+        line-height: 150%;
 }
 
 body{
@@ -20,3 +20,24 @@ body{
 img{
     border-radius: 16px;
 }
+
+h1{
+    line-height: 140%;
+    color: #291B1A;
+    font-size: 40px;
+}
+
+h2{
+    color: #291B1A;
+    font-size: 24px;
+}
+
+p{
+    color: #573A37;
+    font-size: 16px;
+}
+
+ul{
+    color: #573A37;
+}
+
